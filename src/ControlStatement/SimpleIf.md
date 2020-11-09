@@ -3,6 +3,7 @@ layout: default
 title: Simple If
 parent: Control Statement
 nav_order: 2
+has_children: true
 ---
 ### Java If-else Statement
 

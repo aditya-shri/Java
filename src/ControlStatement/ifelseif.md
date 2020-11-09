@@ -2,7 +2,7 @@
 layout: default
 title: if-else-if
 parent: Simple if
-grand_parents: Control Statement
+grand_parent: Control Statement
 nav_order: 3
 ---
 ### Java if-else-if ladder Statement
