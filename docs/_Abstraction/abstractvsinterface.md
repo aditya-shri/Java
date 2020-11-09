@@ -1,3 +1,9 @@
+---
+layout: default
+title: abstract VS interface
+parent: Abstraction
+nav_order: 3
+---
 ### Difference between abstract class and interface
 
 Abstract class and interface both are used to achieve abstraction where we can declare the abstract methods. Abstract class and interface both can't be instantiated.

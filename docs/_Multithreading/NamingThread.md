@@ -1,3 +1,9 @@
+---
+layout: default
+title: Naming Thread
+parent: Multithreading
+nav_order: 6
+---
 ### Naming Thread and Current Thread
 
 ##### Naming Thread

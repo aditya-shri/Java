@@ -1,3 +1,9 @@
+---
+layout: default
+title: Package
+parent: Encapsulation
+nav_order: 1
+---
 ### Java Package
 
 A java package is a group of similar types of classes, interfaces and sub-packages.

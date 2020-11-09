@@ -1,3 +1,8 @@
+---
+layout: default
+title: Variables
+nav_order: 6
+---
 ### Java Variables
 
 -------

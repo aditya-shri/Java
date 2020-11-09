@@ -1,3 +1,9 @@
+---
+layout: default
+title: Multithreading
+nav_order: 22
+has_children: true
+---
 ### Multithreading in Java
 
 -------

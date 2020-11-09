@@ -1,3 +1,9 @@
+---
+layout: default
+title: Arraylist
+parent: Collections
+nav_order: 1
+---
 ### Java ArrayList class
 
 Java ArrayList class uses a dynamic array for storing the elements. It inherits AbstractList class and implements List interface.

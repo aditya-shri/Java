@@ -1,3 +1,9 @@
+---
+layout: default
+title: Encapsulation
+nav_order: 15
+has_children: true
+---
 ### Encapsulation in Java
 
 Encapsulation in Java is a process of wrapping code and data together into a single unit, for example, a capsule which is mixed of several medicines.

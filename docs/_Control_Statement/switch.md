@@ -1,3 +1,9 @@
+---
+layout: default
+title: Switch
+parent: Control Statement
+nav_order: 3
+---
 ### Java Switch Statement
 
 ----

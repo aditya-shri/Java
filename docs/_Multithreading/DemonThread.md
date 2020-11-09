@@ -1,3 +1,9 @@
+---
+layout: default
+title: Daemon Thread
+parent: Multithreading
+nav_order: 8
+---
 ### Daemon Thread in Java
 
 Daemon thread in java is a service provider thread that provides services to the user thread. Its life depend on the mercy of user threads i.e. when all the user threads dies, JVM terminates this thread automatically.

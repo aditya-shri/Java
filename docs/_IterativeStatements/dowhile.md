@@ -1,3 +1,9 @@
+---
+layout: default
+title: do-while Loop
+parent: IterativeStatements
+nav_order: 3
+---
 ### Java do-while Loop
     
  The Java do-while loop is used to iterate a part of the program several times. If the number of iteration is not fixed and you must have to execute the loop at least once, it is recommended to use do-while loop.

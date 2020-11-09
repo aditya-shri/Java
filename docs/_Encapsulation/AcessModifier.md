@@ -1,3 +1,9 @@
+---
+layout: default
+title: Access Modifiers
+parent: Encapsulation
+nav_order: 1
+---
 ### Access Modifiers in Java
 
 There are two types of modifiers in Java: access modifiers and non-access modifiers.

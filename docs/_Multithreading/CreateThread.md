@@ -1,3 +1,9 @@
+---
+layout: default
+title: Create Thread
+parent: Multithreading
+nav_order: 2
+---
 ### How to create thread
 
 There are two ways to create a thread:

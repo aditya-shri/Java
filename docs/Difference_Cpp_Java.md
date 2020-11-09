@@ -1,3 +1,8 @@
+---
+layout: default
+title: C++ VS Java
+nav_order: 3
+---
 ![Difference](https://image.slidesharecdn.com/differencebetweenccandjava-170509103453/95/difference-between-c-c-and-java-3-638.jpg?cb=1494326144)
 
 -----

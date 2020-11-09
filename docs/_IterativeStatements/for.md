@@ -1,18 +1,10 @@
-### Loops in Java
-
-------
-
-In programming languages, loops are used to execute a set of instructions/functions repeatedly when some conditions become true. There are three types of loops in java.
-
-   - for loop
-   - while loop
-   - do-while loop
-   
-![loop](https://static.javatpoint.com/images/java-loops.png)
-
-------
-
-##### For Loop
+---
+layout: default
+title: for Loop
+parent: IterativeStatements
+nav_order: 1
+---
+### For Loop
 
 A simple for loop is the same as C/C++. We can initialize the variable, check condition and increment/decrement value. It consists of four parts:
 ```

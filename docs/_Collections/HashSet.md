@@ -1,3 +1,9 @@
+---
+layout: default
+title: HashSet
+parent: Collections
+nav_order: 3
+---
 ### Java HashSet
 
 

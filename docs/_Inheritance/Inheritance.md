@@ -1,3 +1,8 @@
+---
+layout: default
+title: Inheritance
+nav_order: 12
+---
 ### Inheritance in Java
 
 ---------

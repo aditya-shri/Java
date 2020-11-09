@@ -1,3 +1,9 @@
+---
+layout: default
+title: Local Inner Class
+parent: Inner Class
+nav_order: 3
+---
 ### Java Local inner class
 
 ##### Java local inner class example

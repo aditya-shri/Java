@@ -1,3 +1,9 @@
+---
+layout: default
+title: Linkedlist
+parent: Collections
+nav_order: 2
+---
 ### Java LinkedList class
 
 

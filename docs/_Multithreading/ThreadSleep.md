@@ -1,3 +1,9 @@
+---
+layout: default
+title: Thread Sleep
+parent: Multithreading
+nav_order: 3
+---
 ### Sleep method in java
 
 The sleep() method of Thread class is used to sleep a thread for the specified amount of time.

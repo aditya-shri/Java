@@ -1,3 +1,8 @@
+---
+layout: default
+title: Regex
+nav_order: 20
+---
 ### Java Regex
 
 The Java Regex or Regular Expression is an API to define a pattern for searching or manipulating strings.

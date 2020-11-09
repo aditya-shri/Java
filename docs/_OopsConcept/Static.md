@@ -1,3 +1,9 @@
+---
+layout: default
+title: Static
+parent: OopsConcept
+nav_order: 5
+---
 ### Java static keyword
 
 ------

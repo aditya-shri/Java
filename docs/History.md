@@ -1,3 +1,9 @@
+---
+layout: default
+title: History
+nav_order: 1
+---
+
 ### History of JAVA
 
 -----

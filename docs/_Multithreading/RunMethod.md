@@ -1,3 +1,9 @@
+---
+layout: default
+title: run() method
+parent: Multithreading
+nav_order: 4
+---
 ### What if we call run() method directly instead start() method?
 
 

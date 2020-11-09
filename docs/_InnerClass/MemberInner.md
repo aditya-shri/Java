@@ -1,3 +1,9 @@
+---
+layout: default
+title: Member Inner Class
+parent: Inner Class
+nav_order: 1
+---
 ### Java Member inner class
 
 A non-static class that is created inside a class but outside a method is called member inner class.

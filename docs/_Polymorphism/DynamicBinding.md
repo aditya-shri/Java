@@ -1,3 +1,9 @@
+---
+layout: default
+title: Dynamic Binding
+parent: Polymorphism
+nav_order: 5
+---
 ### Static Binding and Dynamic Binding
 
 Connecting a method call to the method body is known as binding.

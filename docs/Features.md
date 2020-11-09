@@ -1,3 +1,8 @@
+---
+layout: default
+title: Features
+nav_order: 2
+---
 ### Features of Java
 
 The primary objective of Java programming language creation was to make it portable, simple and secure programming language. Apart from this, there are also some excellent features which play an important role in the popularity of this language. The features of Java are also known as java buzzwords.

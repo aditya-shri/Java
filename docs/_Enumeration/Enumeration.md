@@ -1,3 +1,8 @@
+---
+layout: default
+title: enum
+nav_order: 18
+---
 ### Java Enums
 
 ---------

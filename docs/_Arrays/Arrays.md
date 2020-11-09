@@ -1,3 +1,8 @@
+---
+layout: default
+title: Arrays
+nav_order: 16
+---
 ### Java Arrays
 
 Normally, an array is a collection of similar type of elements which have a contiguous memory location.

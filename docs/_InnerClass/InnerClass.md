@@ -1,3 +1,9 @@
+---
+layout: default
+title: Inner Class
+nav_order: 21
+has_children: true
+---
 ### Java Inner Classes
 
 Java inner class or nested class is a class which is declared inside the class or interface.

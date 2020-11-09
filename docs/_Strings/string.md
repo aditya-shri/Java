@@ -1,3 +1,8 @@
+---
+layout: default
+title: String
+nav_order: 17
+---
 ### String in JAVA
 
 ---------

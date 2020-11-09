@@ -1,3 +1,9 @@
+---
+layout: default
+title: LifeCycle of Thread
+parent: Multithreading
+nav_order: 1
+---
 ### Life cycle of a Thread (Thread States)
 
 A thread can be in one of the five states. According to sun, there is only 4 states in thread life cycle in java new, runnable, non-runnable and terminated. There is no running state.

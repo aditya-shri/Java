@@ -1,3 +1,9 @@
+---
+layout: default
+title: Collections
+nav_order: 23
+has_children: true
+---
 ### Collections in Java
 
 The Collection in Java is a framework that provides an architecture to store and manipulate the group of objects.

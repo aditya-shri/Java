@@ -1,3 +1,9 @@
+---
+layout: default
+title: Priority Thread
+parent: Multithreading
+nav_order: 7
+---
 ### Priority of a Thread (Thread Priority):
 
 Each thread have a priority. Priorities are represented by a number between 1 and 10. In most cases, thread schedular schedules the threads according to their priority (known as preemptive scheduling). But it is not guaranteed because it depends on JVM specification that which scheduling it chooses.

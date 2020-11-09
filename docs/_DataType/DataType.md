@@ -1,3 +1,8 @@
+---
+layout: default
+title: Data Types
+nav_order: 7
+---
 ### Data Types in Java
 
 --------

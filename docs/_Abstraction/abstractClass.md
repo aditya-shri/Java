@@ -1,3 +1,9 @@
+---
+layout: default
+title: abstract class
+parent: Abstraction
+nav_order: 1
+---
 ### Abstract class in Java
 
 A class which is declared with the abstract keyword is known as an abstract class in Java. It can have abstract and non-abstract methods (method with the body).

@@ -1,3 +1,9 @@
+---
+layout: default
+title: TreeSet
+parent: Collections
+nav_order: 4
+---
 ### Java TreeSet class
 
 Java TreeSet class implements the Set interface that uses a tree for storage. It inherits AbstractSet class and implements the NavigableSet interface. The objects of the TreeSet class are stored in ascending order.

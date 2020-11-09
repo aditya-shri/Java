@@ -1,3 +1,9 @@
+---
+layout: default
+title: TreeMap
+parent: Collections
+nav_order: 6
+---
 ### Java TreeMap class
 
 

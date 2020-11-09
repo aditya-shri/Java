@@ -1,3 +1,8 @@
+---
+layout: default
+title: Swing-JFrame
+nav_order: 23
+---
 ### Java Swing 
 
 Java Swing tutorial is a part of Java Foundation Classes (JFC) that is used to create window-based applications. It is built on the top of AWT (Abstract Windowing Toolkit) API and entirely written in java.

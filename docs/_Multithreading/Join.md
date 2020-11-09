@@ -1,3 +1,9 @@
+---
+layout: default
+title: join() method
+parent: Multithreading
+nav_order: 5
+---
 ### The join() method
 
 The join() method waits for a thread to die. In other words, it causes the currently running threads to stop executing until the thread it joins with completes its task.

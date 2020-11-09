@@ -1,3 +1,9 @@
+---
+layout: default
+title: HashMap
+parent: Collections
+nav_order: 5
+---
 ### Java HashMap class
 
 
