@@ -80,6 +80,7 @@ just-the-docs:
     collections:
           Abstraction:
             name: Abstraction
+            output: true
             nav_exclude: false
             search_exclude: false
           Arrays:
