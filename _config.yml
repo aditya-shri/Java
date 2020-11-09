@@ -11,7 +11,7 @@ color_scheme: dark
 
 collections:
   docs:
-    permalink: "/_docs/"
+    permalink: "/_Abstraction/Abstraction"
     output: true
     
 just-the-docs:
