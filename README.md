@@ -1,7 +1,4 @@
-# Java_Notes_and_Programs
-
-
-## Java    ![Java Logo](https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png)
+# Java    ![Java Logo](https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png)
 
 -----------
 
