@@ -1,4 +1,3 @@
-#theme: jekyll-theme-cayman
 remote_theme: aditya-shri/just-the-docs
 plugins:
   - jekyll-relative-links
@@ -8,7 +7,7 @@ relative_links:
 include:
   - index.md
 color_scheme: dark
-logo: "/img/java.png"
+#logo: "/img/java.png"
 
 collections:
   Abstraction:
