@@ -78,7 +78,87 @@ collections_dir: docs
     
 just-the-docs:
     collections:
-        Abstraction:
-          name: Abstraction
-          nav_exclude: false
-          search_exclude: false
+          Abstraction:
+            name: Abstraction
+            nav_exclude: false
+            search_exclude: false
+          Arrays:
+            name: Arrays
+            nav_exclude: false
+            search_exclude: false
+          Collections:
+            name: Collections
+            nav_exclude: false
+            search_exclude: false
+          Control_Statement:
+            name: Control_Statement
+            nav_exclude: false
+            search_exclude: false
+          DataStructure:
+            name: DataStructure
+            nav_exclude: false
+            search_exclude: false
+          DataType:
+            name: DataType
+            nav_exclude: false
+            search_exclude: false
+          Encapsulation:
+            name: Encapsulation
+            nav_exclude: false
+            search_exclude: false
+          Enumeration:
+            name: Enumeration
+            nav_exclude: false
+            search_exclude: false
+          Exception:
+            name: Exception
+            nav_exclude: false
+            search_exclude: false
+          Inheritance:
+            name: Inheritance
+            nav_exclude: false
+            search_exclude: false
+          InnerClass:
+            name: InnerClass
+            nav_exclude: false
+            search_exclude: false
+          IterativeStatements:
+            name: IterativeStatements
+            nav_exclude: false
+            search_exclude: false
+          Keywords:
+            name: Keywords
+            nav_exclude: false
+            search_exclude: false
+          Multithreading:
+            name: Multithreading
+            nav_exclude: false
+            search_exclude: false
+          OopsConcept:
+            name: OopsConcept
+            nav_exclude: false
+            search_exclude: false
+          Operators:
+            name: Operators
+            nav_exclude: false
+            search_exclude: false
+          Polymorphism:
+            name: Polymorphism
+            nav_exclude: false
+            search_exclude: false
+          Regex:
+            name: Regex
+            nav_exclude: false
+            search_exclude: false
+          Strings:
+            name: Strings
+            nav_exclude: false
+            search_exclude: false
+          swings:
+            name: swings
+            nav_exclude: false
+            search_exclude: false
+          Variables:
+            name: Variables
+            nav_exclude: false
+            search_exclude: false
