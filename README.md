@@ -1,4 +1,4 @@
-#<center> Java</center>    ![Java Logo](https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png)
+#<p align=center>Java</p>    ![Java Logo](https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png)
 
 -----------
 
