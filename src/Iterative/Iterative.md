@@ -2,7 +2,7 @@
 layout: default
 title: Iterative Statements
 nav_order: 12
-has_children = true
+has_children: true
 ---
 ### Loops in Java
 

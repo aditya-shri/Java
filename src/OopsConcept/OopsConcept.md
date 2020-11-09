@@ -2,7 +2,7 @@
 layout: default
 title: Oops Concept
 nav_order: 13
-has_children = true
+has_children: true
 ---
 ### Java OOPs Concepts
 
