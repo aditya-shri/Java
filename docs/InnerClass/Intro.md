@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Intro
+title: InnerClass
 parent: InnerClass
 nav_order: 1
 ---

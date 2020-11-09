@@ -1,7 +1,7 @@
 ---
 layout: default
 title: enum
-nav_order: 19
+nav_order: 20
 ---
 ### Java Enums
 

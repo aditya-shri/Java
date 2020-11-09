@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Exception
-nav_order: 20
+nav_order: 21
 ---
 ### Exception Handling in Java
 

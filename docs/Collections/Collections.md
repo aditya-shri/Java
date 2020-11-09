@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Collections
-nav_order: 24
+nav_order: 26
 has_children: true
 ---
 ### Collections in Java

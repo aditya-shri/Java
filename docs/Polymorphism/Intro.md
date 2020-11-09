@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Intro
+title: Polymorphism
 parent: Polymorphism
 nav_order: 1
 ---
