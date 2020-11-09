@@ -19,10 +19,7 @@ collections:
   Collections:
     permalink: "/:collection/:path/"
     output: true
-  Control_Statement:
-    permalink: "/:collection/:path/"
-    output: true
-  DataStructure:
+  Control_statement:
     permalink: "/:collection/:path/"
     output: true
   DataType:
@@ -43,7 +40,7 @@ collections:
   InnerClass:
     permalink: "/:collection/:path/"
     output: true
-  IterativeStatements:
+  Iterative:
     permalink: "/:collection/:path/"
     output: true
   Keywords:
@@ -91,12 +88,8 @@ just-the-docs:
             name: Collections
             nav_exclude: false
             search_exclude: false
-          Control_Statement:
-            name: Control_Statement
-            nav_exclude: false
-            search_exclude: false
-          DataStructure:
-            name: DataStructure
+          Control_statement:
+            name: Control_statement
             nav_exclude: false
             search_exclude: false
           DataType:
@@ -123,8 +116,8 @@ just-the-docs:
             name: InnerClass
             nav_exclude: false
             search_exclude: false
-          IterativeStatements:
-            name: IterativeStatements
+          Iterative:
+            name: Iterative
             nav_exclude: false
             search_exclude: false
           Keywords:
