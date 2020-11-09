@@ -1,7 +1,7 @@
 ---
 layout: default
 title: if
-parent: Simple if
+parent: Simple If
 grand_parent: Control Statement
 nav_order: 1
 ---
