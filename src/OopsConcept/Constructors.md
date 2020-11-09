@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Constructors
-parent: OopsConcept
+parent: Oops Concept
 nav_order: 4
 ---
 ### Constructors in Java

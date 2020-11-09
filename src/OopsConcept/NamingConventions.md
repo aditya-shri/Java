@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Naming Convention
-parent: OopsConcept
+parent: Oops Concept
 nav_order: 2
 ---
 ### Java Naming conventions

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Static
-parent: OopsConcept
+parent: Oops Concept
 nav_order: 5
 ---
 ### Java static keyword

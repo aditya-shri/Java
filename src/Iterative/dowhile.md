@@ -1,7 +1,7 @@
 ---
 layout: default
 title: do-while Loop
-parent: IterativeStatements
+parent: Iterative Statements
 nav_order: 3
 ---
 ### Java do-while Loop

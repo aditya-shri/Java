@@ -1,7 +1,7 @@
 ---
 layout: default
 title: InnerClass
-parent: InnerClass
+parent: Inner Class
 nav_order: 1
 ---
 ### Java Inner Classes

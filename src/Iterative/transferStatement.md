@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Transfer Statement
-parent: IterativeStatements
+parent: Iterative Statements
 nav_order: 4
 ---
 ### Transfer Statement

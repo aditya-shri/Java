@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IterativeStatements
+title: Iterative Statements
 nav_order: 12
 has_children = true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Simple If
-parent: ControlStatement
+parent: Control Statement
 nav_order: 2
 ---
 ### Java If-else Statement

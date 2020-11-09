@@ -2,7 +2,7 @@
 layout: default
 title: if
 parent: Simple if
-grand_parents: ControlStatement
+grand_parents: Control Statement
 nav_order: 1
 ---
 ### Java If-else Statement

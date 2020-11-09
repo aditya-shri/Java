@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OOPs
-parent: OopsConcept
+parent: Oops Concept
 nav_order: 1
 ---
 ### Java OOPs Concepts

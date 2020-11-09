@@ -1,7 +1,7 @@
 ---
 layout: default
 title: while Loop
-parent: IterativeStatements
+parent: Iterative Statements
 nav_order: 2
 ---
 ### While Loop

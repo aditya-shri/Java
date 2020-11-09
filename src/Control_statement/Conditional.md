@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Conditional Statements
-parent: ControlStatement
+parent: Control Statement
 nav_order: 1
 ---
 ### Conditional Statements in Java

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: for Loop
-parent: IterativeStatements
+parent: Iterative Statements
 nav_order: 1
 ---
 ### For Loop

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Objects and Classes
-parent: OopsConcept
+parent: Oops Concept
 nav_order: 3
 ---
 ### Objects and Classes in Java
