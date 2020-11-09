@@ -10,13 +10,14 @@ include:
 color_scheme: dark
 
 collections:
-  docs:
+  Abstraction:
     permalink: "/:collection/:path/"
     output: true
+collections_dir: docs
     
 just-the-docs:
     collections:
-        docs:
+        Abstraction:
           name: Abstraction
           nav_exclude: false
           search_exclude: false
