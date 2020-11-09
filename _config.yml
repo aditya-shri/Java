@@ -6,7 +6,7 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - README.md
+  - index.md
 color_scheme: dark
 
 collections:
@@ -74,7 +74,7 @@ collections:
     permalink: "/:collection/:path/"
     output: true
   
-collections_dir: docs
+collections_dir: src
     
 just-the-docs:
     collections:

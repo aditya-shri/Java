@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ternary Operator
-parent: Control Statement
+parent: ControlStatement
 nav_order: 4
 ---
 ### Using Ternary Operator

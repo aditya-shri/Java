@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Switch
-parent: Control Statement
+parent: ControlStatement
 nav_order: 3
 ---
 ### Java Switch Statement

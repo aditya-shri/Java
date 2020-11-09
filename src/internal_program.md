@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BackGround Process
+title: Background Process
 nav_order: 5
 ---
 ### What happens at compile time?
