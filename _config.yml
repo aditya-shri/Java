@@ -7,3 +7,16 @@ relative_links:
   collections: true
 include:
   - README.md
+color_scheme: dark
+
+collections:
+    Abstraction:
+        permalink: "./src/Abstraction/"
+        output: true
+
+just_the_docs:
+    collections:
+        Abstraction:
+            name: Abstraction
+            nav_exclude: false
+            search_exclude: false
