@@ -13,6 +13,67 @@ collections:
   Abstraction:
     permalink: "/:collection/:path/"
     output: true
+  Arrays:
+    permalink: "/:collection/:path/"
+    output: true
+  Collections:
+    permalink: "/:collection/:path/"
+    output: true
+  Control_Statement:
+    permalink: "/:collection/:path/"
+    output: true
+  DataStructure:
+    permalink: "/:collection/:path/"
+    output: true
+  DataType:
+    permalink: "/:collection/:path/"
+    output: true
+  Encapsulation:
+    permalink: "/:collection/:path/"
+    output: true
+  Enumeration:
+    permalink: "/:collection/:path/"
+    output: true
+  Exception:
+    permalink: "/:collection/:path/"
+    output: true
+  Inheritance:
+    permalink: "/:collection/:path/"
+    output: true
+  InnerClass:
+    permalink: "/:collection/:path/"
+    output: true
+  IterativeStatements:
+    permalink: "/:collection/:path/"
+    output: true
+  Keywords:
+    permalink: "/:collection/:path/"
+    output: true
+  Multithreading:
+    permalink: "/:collection/:path/"
+    output: true
+  OopsConcept:
+    permalink: "/:collection/:path/"
+    output: true
+  Operators:
+    permalink: "/:collection/:path/"
+    output: true
+  Polymorphism:
+    permalink: "/:collection/:path/"
+    output: true
+  Regex:
+    permalink: "/:collection/:path/"
+    output: true
+  Strings:
+    permalink: "/:collection/:path/"
+    output: true
+  swings:
+    permalink: "/:collection/:path/"
+    output: true
+  Variables:
+    permalink: "/:collection/:path/"
+    output: true
+  
 collections_dir: docs
     
 just-the-docs:
