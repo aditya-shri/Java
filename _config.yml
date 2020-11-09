@@ -9,8 +9,14 @@ include:
   - README.md
 color_scheme: dark
 
-collections_dir: src
-
 collections:
-  Abstraction:
+  docs:
+    permalink: "/docs/"
     output: true
+    
+just-the-docs:
+    collections:
+        docs:
+          name: Abstraction
+          nav_exclude: false
+          search_exclude: false
