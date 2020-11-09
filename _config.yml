@@ -1,5 +1,5 @@
 #theme: jekyll-theme-cayman
-remote_theme: pmarsceill/just-the-docs
+remote_theme: aditya-shri/just-the-docs
 plugins:
   - jekyll-relative-links
 relative_links:
