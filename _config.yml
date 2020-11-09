@@ -19,7 +19,7 @@ collections:
   Collections:
     permalink: "/:collection/:path/"
     output: true
-  Control_statement:
+  ControlStatement:
     permalink: "/:collection/:path/"
     output: true
   DataType:
@@ -88,8 +88,8 @@ just-the-docs:
             name: Collections
             nav_exclude: false
             search_exclude: false
-          Control_statement:
-            name: Control_statement
+          ControlStatement:
+            name: ControlStatement
             nav_exclude: false
             search_exclude: false
           DataType:
