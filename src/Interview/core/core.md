@@ -3,6 +3,7 @@ layout: default
 title: Core
 parent: Interview Prep
 nav_order: 2
+has_children: true
 ---
 ## Core Java
 
