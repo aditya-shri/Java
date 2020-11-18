@@ -58,7 +58,7 @@ Syntax:
 
 ----------
 
-### Control Statement
+### Continue Statement
    
 The continue statement is used in loop control structure when you need to jump to the next iteration of the loop immediately. It can be used with for loop or while loop.
 
