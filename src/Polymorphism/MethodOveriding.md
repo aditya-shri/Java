@@ -33,6 +33,8 @@ In other words, If a subclass provides the specific implementation of the method
     //Here, we are calling the method of parent class with child  
     //class object.  
     //Creating a parent class  
+-----
+
 ```java
  class Vehicle{  
    //defining a method  
@@ -52,6 +54,7 @@ In other words, If a subclass provides the specific implementation of the method
 
 
 Example
+
 ```java
 class Bank{  
 int getRateOfInterest(){return 0;}  
