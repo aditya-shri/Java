@@ -1,7 +1,7 @@
 ---
 layout: default
 title: String
-nav_order: 19
+nav_order: 20
 ---
 ### String in JAVA
 
