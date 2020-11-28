@@ -42,7 +42,7 @@ These are study notes, mostly for revision couple of days before the interview. 
 
 ### Other 
 
-- [Spring Boot overview (DI, Security, JPA, Testing)](http./deepakvadgama.co.blo.spring-boot-wonder.)
+- [Spring Boot overview (DI, Security, JPA, Testing)](https://deepakvadgama.com/blog/spring-cloud-wonders/)
 
 ### Opinion based questions
 
