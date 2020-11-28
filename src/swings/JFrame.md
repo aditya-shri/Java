@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Swing-JFrame
-nav_order: 25
+nav_order: 26
 ---
 ### Java Swing 
 
