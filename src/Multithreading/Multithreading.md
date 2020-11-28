@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Multithreading
-nav_order: 24
+nav_order: 25
 has_children: true
 ---
 ### Multithreading in Java
