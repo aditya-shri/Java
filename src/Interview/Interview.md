@@ -18,26 +18,26 @@ These are study notes, mostly for revision couple of days before the interview. 
 
 ### Core Java
 
-- [Core Java](./core/core-java.md)
-- [Collections](./core/collections.md)
-- [Java 8](./core/java-8.md)
-- [Java Memory Model](./core/java-memory-model.md)
-- [Concurrency](./core/concurrency.md)
-- [Garbage Collection](./core/garbage-collection.md)
-- [JVM Internals](./core/jvm-internals.md)
+- [Core Java](./core/core.html)
+- [Collections](./core/collections.html)
+- [Java 8](./core/java8.html)
+- [Java Memory Model](./core/java_memory_model.html)
+- [Concurrency](./core/concurrency.html)
+- [Garbage Collection](./core/garbage_collection.html)
+- [JVM Internals](./core/jvm_internals.html)
 
 ### Design Clean Code
 
-- [SOLID Principles](./design/solid.md)
-- [Effective Java](./design/effective-java.md)
-- [Design Patterns](./design/design-patterns.md)
-- [Approach to Design Questions](./design/approach.md)
+- [SOLID Principles](./design/solid.html)
+- [Effective Java](./design/effective-java.html)
+- [Design Patterns](./design/design-patterns.html)
+- [Approach to Design Questions](./design/approach.html)
 
 ### Related
 
-- [SQL](./related/sql.md) 
-- [UNIX](./related/unix.md)
-- [Web](./related/web.md)
+- [SQL](./related/sql.html) 
+- [UNIX](./related/unix.html)
+- [Web](./related/web.html)
 
 ### Other 
 
@@ -47,6 +47,6 @@ These are study notes, mostly for revision couple of days before the interview. 
 
 Answers to such questions vary based on multiple factors (interviewer and interviewee's experience with Java, exposure to other languages, personal taste, etc). Thus, take the answers with pinch of salt, and make them your own before using them.
 
-- What do you like about Java? [Answer](./opinion/myanswers.md#what-do-you-like-about-java)
-- What do you not like about Java? [Answer](./opinion/myanswers.md#what-do-you-not-like-about-java)
-- Which is better - compilation, interpretation or JIT? Why? [Answer](./opinion/myanswers.md#importance-of-compile-time-vs-jit)
+- What do you like about Java? [Answer](./opinion/opinion.html#what-do-you-like-about-java)
+- What do you not like about Java? [Answer](./opinion/opinion.html#what-do-you-not-like-about-java)
+- Which is better - compilation, interpretation or JIT? Why? [Answer](./opinion/opinion.html#importance-of-compile-time-vs-jit)
