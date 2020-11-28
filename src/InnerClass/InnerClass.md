@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Inner Class
-nav_order: 23
+nav_order: 18
 has_children: true
 ---
 ### Java Inner Classes
