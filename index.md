@@ -79,3 +79,5 @@ It is a micro platform which is mainly used to develop mobile applications.
 It is used to develop rich internet applications. It uses a light-weight user interface API.
 
 -------
+
+For more detailed and elaborate tutorials, visit ![JAVA Tutorial](https://docs.oracle.com/javase/tutorial/)
