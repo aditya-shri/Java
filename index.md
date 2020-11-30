@@ -80,4 +80,4 @@ It is used to develop rich internet applications. It uses a light-weight user in
 
 -------
 
-For more detailed and elaborate tutorials, visit ![JAVA Tutorial](https://docs.oracle.com/javase/tutorial/)
+For more detailed and elaborate tutorials, visit [JAVA Tutorial](https://docs.oracle.com/javase/tutorial/)
