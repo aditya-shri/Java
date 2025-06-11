@@ -1,0 +1,17 @@
+@import "just-the-docs";
+
+$body-background-color: #000 !default;
+$body-text-color: #ddd !default;
+$sidebar-color: #000 !default;
+
+:root {
+  // Direct CSS variable overrides (preferred method)
+  --color-background: #000000;
+  --color-sidebar: #000000;
+  --color-text: #dddddd;
+  --color-heading: #ffffff;
+  --color-link: #1e90ff;
+  --color-border: #222222;
+  --color-code-background: #111111;
+  --color-code-linenumber: #bbbbbb;
+}

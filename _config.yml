@@ -12,10 +12,10 @@ sass:
     - sass
     - assests/css
 
-just_the_docs:
-  css_path: "assets/css/just-the-docs.scss"
 
-color_scheme: black
+just_the_docs:
+  color_scheme: custom
+  css_path: "assets/css/custom.scss"
 #logo: "/img/java.png"
 
 collections:
