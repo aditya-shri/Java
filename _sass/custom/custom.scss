@@ -14,6 +14,16 @@
   font-weight: bold !important;
 }
 
+.side-bar+.main .main-header {
+  background-color: #000;
+}
+.main-header {
+  border-bottom: 0px;
+}
+.search-input-wrap {
+  max-width: none;
+}
+
 /* Main content */
 body,
 .main-content {
