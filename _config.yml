@@ -6,9 +6,6 @@ relative_links:
   collections: true
 include:
   - index.md
-
-just_the_docs:
-  css_path: "assets/css/custom.css"
 #logo: "/img/java.png"
 
 collections:
