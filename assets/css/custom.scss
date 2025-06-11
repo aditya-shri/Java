@@ -1,17 +1,121 @@
+/* Import base theme */
 @import "just-the-docs";
 
-$body-background-color: #000 !default;
-$body-text-color: #ddd !default;
-$sidebar-color: #000 !default;
-
+/* Dark theme overrides */
 :root {
-  // Direct CSS variable overrides (preferred method)
   --color-background: #000000;
   --color-sidebar: #000000;
   --color-text: #dddddd;
   --color-heading: #ffffff;
   --color-link: #1e90ff;
+  --color-link-visited: #9370db;
   --color-border: #222222;
   --color-code-background: #111111;
-  --color-code-linenumber: #bbbbbb;
+  --color-code-text: #f8f8f2;
+  --color-muted: #aaaaaa;
+  --color-body: #000000;
+  --color-card-background: #111111;
+  --color-form-background: #111111;
+  --color-form-text: #eeeeee;
+  --color-inline-code: #f92672;
+  --color-highlighted-background: #1a1a1a;
+}
+
+/* Sidebar */
+.side-bar {
+  background-color: var(--color-sidebar) !important;
+  color: var(--color-text) !important;
+  border-right: 1px solid var(--color-border) !important;
+}
+
+.side-bar a,
+.side-bar .nav-category {
+  color: var(--color-muted) !important;
+}
+
+.side-bar a:hover,
+.side-bar .nav-list-link.active {
+  color: var(--color-heading) !important;
+  font-weight: bold;
+}
+
+/* Main content */
+.main-content {
+  background-color: var(--color-background);
+  color: var(--color-text);
+}
+
+.main-content a {
+  color: var(--color-link);
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: var(--color-heading);
+}
+
+/* Code blocks */
+pre,
+code,
+.highlight {
+  background-color: var(--color-code-background) !important;
+  color: var(--color-code-text) !important;
+  border: 1px solid var(--color-border);
+}
+
+pre code {
+  color: var(--color-code-text) !important;
+}
+
+/* Inline code */
+code.highlighter-rouge {
+  background-color: var(--color-inline-code);
+  color: #fff;
+}
+
+/* Tables */
+table {
+  background-color: var(--color-card-background);
+  color: var(--color-text);
+}
+
+table th,
+table td {
+  border-color: var(--color-border);
+}
+
+/* Search */
+.search-input,
+.search-result,
+.search-result-title {
+  background-color: var(--color-form-background) !important;
+  color: var(--color-form-text) !important;
+  border-color: var(--color-border);
+}
+
+.search-result:hover {
+  background-color: var(--color-highlighted-background) !important;
+}
+
+/* Buttons */
+.btn {
+  background-color: var(--color-border) !important;
+  color: var(--color-heading) !important;
+  border: 1px solid var(--color-border);
+}
+
+.btn:hover {
+  background-color: var(--color-link) !important;
+  color: #fff !important;
+}
+
+/* Footer (if used) */
+.site-footer {
+  background-color: var(--color-background);
+  color: var(--color-muted);
+  border-top: 1px solid var(--color-border);
 }
