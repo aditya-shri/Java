@@ -6,6 +6,15 @@ relative_links:
   collections: true
 include:
   - index.md
+
+sass:
+  load_paths:
+    - sass
+    - assests/css
+
+just_the_docs:
+  css_path: "assets/css/just-the-docs.scss"
+
 color_scheme: black
 #logo: "/img/java.png"
 
