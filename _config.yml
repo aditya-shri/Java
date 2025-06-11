@@ -6,7 +6,7 @@ relative_links:
   collections: true
 include:
   - index.md
-color_scheme: dark
+color_scheme: black
 #logo: "/img/java.png"
 
 collections:

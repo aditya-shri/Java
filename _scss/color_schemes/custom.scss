@@ -1,0 +1,51 @@
+$color-scheme: black;
+
+// Backgrounds - true black or near-black
+$body-background-color: #000000;
+$sidebar-color: #000000;
+$table-background-color: #000000;
+$search-background-color: #000000;
+
+// Typography - ensure high contrast
+$body-heading-color: #ffffff;
+$body-text-color: #dddddd;
+$nav-child-link-color: #bbbbbb;
+$search-result-preview-color: #cccccc;
+
+// Links and actions
+$link-color: #1e90ff;
+$base-button-color: #111111;
+$btn-primary-color: #1e90ff;
+
+// Code
+$code-background-color: #111111;
+$code-linenumber-color: #bbbbbb;
+
+// Borders and UI chrome
+$border-color: #222222;
+$feedback-color: #111111;
+
+// Optional: Override greys to suit dark theme globally
+$grey-dk-000: #aaaaaa;
+$grey-dk-100: #888888;
+$grey-dk-200: #555555;
+$grey-dk-250: #333333;
+$grey-dk-300: #111111;
+
+$grey-lt-000: #ffffff;
+$grey-lt-100: #eeeeee;
+$grey-lt-200: #dddddd;
+$grey-lt-300: #cccccc;
+
+// Accent colors remain the same for vibrancy, but you can darken if needed:
+$blue-000: #2c84fa;
+$blue-100: #2869e6;
+$blue-200: #264caf;
+$blue-300: #183385;
+
+$purple-000: #9a6eff;
+$green-000: #41d693;
+$yellow-000: #ffeb82;
+$red-000: #f77e7e;
+
+@import "./vendor/OneDarkJekyll/syntax"; // this is the one-dark-vivid atom syntax theme
